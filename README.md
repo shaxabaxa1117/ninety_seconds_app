@@ -40,7 +40,9 @@ Total: 90 seconds (70 + 10 + 10 ). With this strategy, the right sentence is lit
 
 ## Screenshots
 <img src="assets/photos/image1.png" alt="Home Page" width="200" height="350"/>
+ - Home Page
 <img src="assets/photos/image2.png" alt="List of decks" width="200" height="350"/>
+ - List of decks
 <img src="assets/photos/image3.png" alt="Favourites" width="200" height="350"/>
 <img src="assets/photos/image4.png" alt="Starting process" width="200" height="350"/>
 <img src="assets/photos/image5.png" alt="Learning process a" width="200" height="350"/>
