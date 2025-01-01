@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692719974026",
+    "project_id": "authsec-48141",
+    "storage_bucket": "authsec-48141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692719974026:android:c0a0b1e925e583e7ea5f73",
+        "android_client_info": {
+          "package_name": "com.example.ninety_seconds_per_word_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41YRRo989QpGuGya6C9UYaD9QGM83E0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
