@@ -46,6 +46,8 @@ Total: 90 seconds (70 + 10 + 10 ). With this strategy, the right sentence is lit
   <img src="assets/photos/image4.png" alt="Starting process" width="200" height="350"/>
   <img src="assets/photos/image5.png" alt="Learning process a" width="200" height="350"/>
   <img src="assets/photos/image6.png" alt="Learning process b" width="200" height="350"/>
+  <img src="assets/photos/image7.png" alt="Learning process b" width="200" height="350"/>
+  <img src="assets/photos/image8.png" alt="Learning process b" width="200" height="350"/>
 </p>
 
 
