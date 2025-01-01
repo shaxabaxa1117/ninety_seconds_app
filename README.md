@@ -40,14 +40,14 @@ Total: 90 seconds (70 + 10 + 10 ). With this strategy, the right sentence is lit
 
 ## Screenshots
 <p float="left">
-  <img src="assets/photos/image1.png" alt="Home Page" width="200" height="350"/>
-  <img src="assets/photos/image2.png" alt="List of decks" width="200" height="350"/>
-  <img src="assets/photos/image3.png" alt="Favourites" width="200" height="350"/>
-  <img src="assets/photos/image4.png" alt="Starting process" width="200" height="350"/>
-  <img src="assets/photos/image5.png" alt="Learning process a" width="200" height="350"/>
-  <img src="assets/photos/image6.png" alt="Learning process b" width="200" height="350"/>
-  <img src="assets/photos/image7.png" alt="Learning process b" width="200" height="350"/>
-  <img src="assets/photos/image8.png" alt="Learning process b" width="200" height="350"/>
+  <img src="assets/photos/image1.png" alt="Home Page" width="220" height="400"/>
+  <img src="assets/photos/image2.png" alt="List of decks" width="220" height="400"/>
+  <img src="assets/photos/image3.png" alt="Favourites" width="220" height="400"/>
+  <img src="assets/photos/image4.png" alt="Starting process" width="220" height="400"/>
+  <img src="assets/photos/image5.png" alt="Learning process a" width="220" height="400"/>
+  <img src="assets/photos/image6.png" alt="Learning process b" width="220" height="400"/>
+  <img src="assets/photos/image7.png" alt="Learning process b" width="220" height="400"/>
+  <img src="assets/photos/image8.png" alt="Learning process b" width="220" height="400"/>
 </p>
 
 
