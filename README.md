@@ -38,12 +38,12 @@ Total: 90 seconds (70 + 10 + 10 ). With this strategy, the right sentence is lit
 - **Lottie**: For adding beautiful animations to the app.
 
 ## Screenshots
-![Home Page](assets/photos/image1.png)
-![List of decks](assets/photos/image2.png)
-![Favourites](assets/photos/image3.png)
-![Starting process](assets/photos/image4.png)
-![a) Learning process](assets/photos/image5.png)
-![b) Learning process](assets/photos/image6.png)
+<img src="assets/photos/image1.png" alt="Home Page" width="300"/>
+<img src="assets/photos/image2.png" alt="List of decks" width="300"/>
+<img src="assets/photos/image3.png" alt="Favourites" width="300"/>
+<img src="assets/photos/image4.png" alt="Starting process" width="300"/>
+<img src="assets/photos/image5.png" alt="Learning process a" width="300"/>
+<img src="assets/photos/image6.png" alt="Learning process b" width="300"/>
 
 
 ## Resources
