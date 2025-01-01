@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:io';
 
-import 'package:ninenty_second_per_word_app/fronted/pages/drawer/instruction_page.dart'; // Для выхода из приложения
+import 'package:ninenty_second_per_word_app/frontend/pages/drawer/instruction_page.dart'; // Для выхода из приложения
 
 class DrawerPage extends StatelessWidget {
   final PageController pageController;

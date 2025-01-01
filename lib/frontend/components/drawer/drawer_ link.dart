@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-import 'package:ninenty_second_per_word_app/fronted/style/app_style.dart';
+import 'package:ninenty_second_per_word_app/frontend/style/app_style.dart';
 
 class DrawerLink extends StatelessWidget {
   const DrawerLink(

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:liquid_pull_to_refresh/liquid_pull_to_refresh.dart';
 import 'package:ninenty_second_per_word_app/database/hive_box.dart';
-import 'package:ninenty_second_per_word_app/fronted/pages/main_pages/flip_card_page.dart';
-import 'package:ninenty_second_per_word_app/fronted/style/app_colors.dart';
+import 'package:ninenty_second_per_word_app/frontend/pages/main_pages/flip_card_page.dart';
+import 'package:ninenty_second_per_word_app/frontend/style/app_colors.dart';
 import 'package:ninenty_second_per_word_app/provider/schedule_provider.dart';
 import 'package:provider/provider.dart';
 

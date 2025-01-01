@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:lottie/lottie.dart';
 import 'package:ninenty_second_per_word_app/database/CardModel.dart';
-import 'package:ninenty_second_per_word_app/fronted/components/others/alert_to_fill_dialog.dart';
-import 'package:ninenty_second_per_word_app/fronted/components/others/new_card_texts.dart';
-import 'package:ninenty_second_per_word_app/fronted/components/sentence_text_field.dart';
-import 'package:ninenty_second_per_word_app/fronted/components/word_text_field.dart';
-import 'package:ninenty_second_per_word_app/fronted/style/app_colors.dart';
+import 'package:ninenty_second_per_word_app/frontend/components/others/alert_to_fill_dialog.dart';
+import 'package:ninenty_second_per_word_app/frontend/components/others/new_card_texts.dart';
+import 'package:ninenty_second_per_word_app/frontend/components/sentence_text_field.dart';
+import 'package:ninenty_second_per_word_app/frontend/components/word_text_field.dart';
+import 'package:ninenty_second_per_word_app/frontend/style/app_colors.dart';
 
 import 'package:ninenty_second_per_word_app/provider/deck_provider.dart';
 

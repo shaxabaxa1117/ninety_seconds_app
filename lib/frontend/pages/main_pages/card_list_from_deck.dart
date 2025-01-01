@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:ninenty_second_per_word_app/database/DeckModel.dart';
 import 'package:ninenty_second_per_word_app/database/hive_box.dart';
-import 'package:ninenty_second_per_word_app/fronted/components/others/new_card_texts.dart';
-import 'package:ninenty_second_per_word_app/fronted/pages/main_pages/adding_card_page.dart';
-import 'package:ninenty_second_per_word_app/fronted/pages/main_pages/edit_note_page.dart';
-import 'package:ninenty_second_per_word_app/fronted/style/app_colors.dart';
+import 'package:ninenty_second_per_word_app/frontend/components/others/new_card_texts.dart';
+import 'package:ninenty_second_per_word_app/frontend/pages/main_pages/adding_card_page.dart';
+import 'package:ninenty_second_per_word_app/frontend/pages/main_pages/edit_note_page.dart';
+import 'package:ninenty_second_per_word_app/frontend/style/app_colors.dart';
 import 'package:ninenty_second_per_word_app/provider/deck_provider.dart';
 import 'package:provider/provider.dart';
 

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:ninenty_second_per_word_app/fronted/pages/drawer/drawer_page.dart';
-import 'package:ninenty_second_per_word_app/fronted/pages/main_pages/favourite_words_page.dart';
-import 'package:ninenty_second_per_word_app/fronted/pages/main_pages/home_page.dart';
-import 'package:ninenty_second_per_word_app/fronted/pages/main_pages/deck_list_page.dart';
-import 'package:ninenty_second_per_word_app/fronted/style/app_colors.dart';
+import 'package:ninenty_second_per_word_app/frontend/pages/drawer/drawer_page.dart';
+import 'package:ninenty_second_per_word_app/frontend/pages/main_pages/favourite_words_page.dart';
+import 'package:ninenty_second_per_word_app/frontend/pages/main_pages/home_page.dart';
+import 'package:ninenty_second_per_word_app/frontend/pages/main_pages/deck_list_page.dart';
+import 'package:ninenty_second_per_word_app/frontend/style/app_colors.dart';
 import 'package:ninenty_second_per_word_app/provider/deck_provider.dart';
 import 'package:provider/provider.dart';
 import 'package:salomon_bottom_bar/salomon_bottom_bar.dart';

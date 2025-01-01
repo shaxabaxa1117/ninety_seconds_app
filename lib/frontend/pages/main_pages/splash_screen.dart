@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:another_flutter_splash_screen/another_flutter_splash_screen.dart';
-import 'package:ninenty_second_per_word_app/fronted/pages/main_pages/home_page_acces_users.dart';
-import 'package:ninenty_second_per_word_app/fronted/style/app_colors.dart';
+import 'package:ninenty_second_per_word_app/frontend/pages/main_pages/home_page_acces_users.dart';
+import 'package:ninenty_second_per_word_app/frontend/style/app_colors.dart';
 
 
 
